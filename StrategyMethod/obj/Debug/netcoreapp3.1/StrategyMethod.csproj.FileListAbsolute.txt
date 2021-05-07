@@ -1,0 +1,26 @@
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.exe
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.deps.json
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.runtimeconfig.json
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.runtimeconfig.dev.json
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.dll
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.pdb
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.csprojAssemblyReference.cache
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.AssemblyInfoInputs.cache
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.AssemblyInfo.cs
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.csproj.CoreCompileInputs.cache
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.dll
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.pdb
+D:\catolica-II-2020\arqui\patrones\StrategyMethod\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.genruntimeconfig.cache
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.exe
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.deps.json
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.runtimeconfig.json
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.runtimeconfig.dev.json
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.dll
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\bin\Debug\netcoreapp3.1\StrategyMethod.pdb
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.csprojAssemblyReference.cache
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.AssemblyInfoInputs.cache
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.AssemblyInfo.cs
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.dll
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.pdb
+C:\Users\HP POWER\Documents\Universidad\Arqui\labo5\Strategy\StrategyMethod\obj\Debug\netcoreapp3.1\StrategyMethod.genruntimeconfig.cache
